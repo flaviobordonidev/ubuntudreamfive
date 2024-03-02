@@ -11,5 +11,6 @@ Rails.application.routes.draw do
 
   get 'pages/home'
   get 'mockups/test_a'
-  get 'mockups/eduport_index'
+  get 'mockups/test_eduport_index'
+  get 'mockups/test_eduport_signin'
 end
